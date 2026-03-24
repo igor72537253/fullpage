@@ -1,5 +1,6 @@
 .block {
 	display: none;
+	display: flex;
 	display: block11;
 	display: flex;
 }
